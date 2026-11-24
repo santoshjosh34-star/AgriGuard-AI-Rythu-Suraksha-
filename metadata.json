@@ -1,0 +1,12 @@
+{
+  "name": "AgriGuard AI",
+  "description": "Every Farmer Deserves an AI Team — Autonomous multi-agent agricultural operations and Kisan Rakshak disaster readiness platform for Indian farmers.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
